@@ -1,0 +1,28 @@
+// HTML CSS
+@OnlineTutorialsYT
+@CodeWithHossein
+@MrWebDesignerAnas
+
+@freecodecamp
+
+// DOTNET
+@CodeSbyAniz
+@dotnet
+@baltaio
+
+
+//DELPHI
+@DelphiGOV
+
+
+// OUTROS
+@HashtagTreinamentos
+@DescomplicandoSites
+
+
+// JAVASCRIPT
+@ChrisCourses (nivel hardcore - pago)
+
+
+// ARDUINO
+@BrincandocomIdeias
